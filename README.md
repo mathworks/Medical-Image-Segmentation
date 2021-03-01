@@ -6,4 +6,6 @@ There are 3 MATLAB Live Scripts which deals with different aspects of image segm
 2. Ex\_2\_Cell\_segmentation\_part2.mlx deals with image segmentation based on *texture*.
 3. Ex\_3\_Using\_simple\_parallel\_computing.mlx makes use of simple parallel computing commands to increase execution speed and also guides the user on how to use a compute cluster to off-load the code.
 
+[![View Medical-Image-Segmentation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88019-medical-image-segmentation)
+
 The license used in this contribution is the XSLA license.
