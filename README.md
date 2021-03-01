@@ -4,6 +4,6 @@ There are 3 MATLAB Live Scripts which deals with different aspects of image segm
  
 1. Ex\_1\_Cell\_segmentation\_part1.mlx deals with image segmentation based on colour information.
 2. Ex\_2\_Cell\_segmentation\_part2.mlx deals with image segmentation based on *texture*.
-3. Ex\_3\_Using\_simple\_parallel\_computing.mlx makes use of simple parallel computing commands to increase execution speed and also guides the user on how to use a compute cluster to ofload the code.
+3. Ex\_3\_Using\_simple\_parallel\_computing.mlx makes use of simple parallel computing commands to increase execution speed and also guides the user on how to use a compute cluster to off-load the code.
 
 The license used in this contribution is the XSLA license.
