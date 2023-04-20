@@ -8,4 +8,4 @@ There are 3 MATLAB Live Scripts which deals with different aspects of image segm
 
 [![View Medical-Image-Segmentation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88019-medical-image-segmentation)
 
-The license used in this contribution is the XSLA license.
+The license is available in the License.txt file in this GitHub repository.
